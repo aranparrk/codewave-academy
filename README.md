@@ -57,4 +57,7 @@ React 컴포넌트와 과정 데이터, CSS 반응형 레이아웃, 과정별 �
 ## 안내
 
 실제 교육기관이나 모집 서비스가 아닙니다. 기간과 교육 내용은 과제용 예시입니다.
-GitHub에 소스를 push하는 것과 공개 웹사이트 배포는 별개입니다.
+공개 사이트: https://aranparrk.github.io/codewave-academy/
+
+main 브랜치에 push하면 GitHub Actions가 검사·빌드 후 GitHub Pages에 자동 배포합니다.
+배포 설정은 Vite 공식 가이드를 따릅니다: https://vite.dev/guide/static-deploy.html#github-pages
