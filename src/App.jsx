@@ -217,7 +217,7 @@ function App() {
                       <span key={tag}>{tag}</span>
                     ))}
                   </div>
-                  <details>
+                  <details name="course-curriculum">
                     <summary>
                       커리큘럼 살펴보기 <span aria-hidden="true">＋</span>
                     </summary>
